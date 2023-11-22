@@ -19,7 +19,7 @@ This function requires the AzMarketplace module to be imported.
 https://docs.microsoft.com/en-us/azure/marketplace/
 
 #>
-function Get-AzMarketplaceSubscriptions {
+function Get-AzMarketplaceSaaSSubscriptions {
     [CmdletBinding()]
     Param()
     Process {
